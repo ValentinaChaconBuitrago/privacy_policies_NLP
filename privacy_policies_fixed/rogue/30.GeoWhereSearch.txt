@@ -1,0 +1,50 @@
+
+About this website privacy policy
+
+This is a model website privacy policy, referred to now by the UK Information Commissioner’s Office (“ICO”) as a privacy notice. It is written in plain language that is visitor friendly. We have provided a large menu of paragraphs so that you can easily tailor the notice to suit the exact structure of your business and website.
+
+Although this document cannot magically absolve you from risk of data mismanagement, it is a giant first step. Informing your visitors and customers (and other parties) about the data you collect about them is a legal requirement. A privacy notice is a simple way to comply, but a good privacy notice goes further. It is prime evidence to everyone you deal with and to the ICO, that you take confidentiality seriously. That can help increase the trust that visitors and customers have in your business and boost confidence in using your services or buying from you.
+
+As well as the privacy notice, we have included a copy of the ICO guidelines in Word format.
+The law in this privacy notice
+
+A combination of telephone hacking, other privacy scandals and the publication of an amendment to the Privacy and Electronic Communications Regulations has completely changed the scenery in the area of privacy law and the expectations of those with whom we deal. There are new rules for websites that use cookies and similar technologies and for companies that send marketing or advertising material electronically. In essence, the vast majority of businesses will need to update their privacy policies to comply with the new rules. Failure to comply could result in a fine of up to £500,000.
+
+The ICO has provided a guide to what you should and should not be saying in your privacy notice. However, the law is new, and has been handed to the UK from Europe. It is clear that the ICO does not know how its requirements will unfold. We find the ICO’s guidance at times is unspecific and muddled. So as to provide our customers with the greatest possible level of compliance, the Net Lawman website privacy policy follows the guidance as closely as possible, expanding with greater detail in areas that are less clear.
+
+This Net Lawman website privacy policy complies with UK law, including the Data Protection Act. (Note that having a privacy notice is just part of the requirements for compliance with the DPA).
+When to use this website privacy policy
+
+Website owners have until May 2012 before the ICO will enforce the new rules strictly. However, because the law is in force now, and because there are benefits to having a good privacy policy, we recommend that you update your notice as soon as possible.
+
+If you have a website, regardless of whether you are trading from it, it is highly likely that you will be collecting information about your customers in some way, even if you don’t use the information. A common example of information collection that is covered by the law is anonymous visitor tracking. If you use Google Analytics, weblogs or any similar software, your privacy policy will need to disclose this.
+Privacy notice features and contents
+
+Your privacy notice should reflect the way your organisation collects and uses data. This will change between organisations enough to make each privacy policy unique, but with common elements that can be covered with standardised statements. In short, you will need to edit your privacy policy to reflect how your website and organisation operates, but we have done much of the legwork for you to make it an easy process.
+
+There are 29 paragraphs in this document. In places we have provided a number of possibilities, where you choose the most appropriate from the menu and delete the others. In other places, we have provided ideas and the most common scenarios, but the notice may require a little customisation to reflect fully your business.
+The notice is drawn around:
+
+    reminding you how to avoid contravening the UK Data Protection Act and the new EU regulations;
+    providing re-assurance to your customers or clients;
+    maintaining a professional but friendly image.
+
+The contents of the document include:
+
+    Categorisation of different types of information and how you use them
+    How you collect, use and store financial information
+    Information security and data retention
+    Fraud prevention
+    Cookies
+    Collection of information by other means (such as telephone calls and e-mails)
+    Complaints
+    Compliance with the law and disclosure to government
+    Processing data outside the UK
+    Data review, removal and update
+    Third party advertising
+    Use of site by children
+
+As well as the privacy notice, we have included a copy of the ICO guidelines in Word format.
+Draftsman
+
+This document is drawn by Net Lawman lawyers to comply with current English law.
